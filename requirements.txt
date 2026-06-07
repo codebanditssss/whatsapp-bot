@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+twilio
+google-genai
+gspread
+google-auth
+python-dotenv
+python-multipart
+openai
