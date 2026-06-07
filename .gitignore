@@ -1,0 +1,17 @@
+# Secrets - NEVER commit these
+.env
+.env.tmp
+credentials.json
+
+# Data
+leads.csv
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Runtime logs
+*.log
+server.log
+tunnel.log
